@@ -1,0 +1,77 @@
+.calculator{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    border: 2px solid #000;
+    border-radius: 30px;
+    border-color: rgb(5, 139, 133);
+    background-color:rgb(132, 180, 189);
+    border-width: 7px;
+}
+#display {
+    height: 80px;
+    width: 260px;
+    text-align: right;
+    font-size: 30px;
+    margin-bottom: 20px;
+    background-color: rgb(255, 231, 223);
+    border-radius: 10px;
+    border-width: 5px;
+}
+button{
+    height: 40px;
+    width: 40px;
+    border-radius: 2px;
+    margin: 10px;
+    border-color: cadetblue;
+    font-size: 20px;
+    border-radius: 10px;
+    border-width: 3px;
+}
+button:hover{
+    color: #ffffff;
+    background-color: rgb(116, 104, 104);
+}
+.clearButton{
+    color: white;
+    background-color: rgb(108, 108, 219);
+}
+.wholepage{
+    width: 1350px;
+    height: 561px;
+    background-image: url('https://thumbs.dreamstime.com/z/color-numbers-symbols-basic-math-work-pink-background-contains-d-rendered-illustrations-copy-space-education-concepts-233295602.jpg');
+    
+}
+h1{
+    color: rgb(13, 48, 83);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+.percent{
+    background-color: rgb(253, 190, 74);
+}
+.divide{
+    background-color:  rgb(253, 190, 74);
+}
+.multiply{
+    background-color:  rgb(253, 190, 74);
+}
+.minus{
+    background-color:  rgb(253, 190, 74);
+}
+.plus{
+    background-color:  rgb(253, 190, 74);
+}
+.delete{
+    background-color: rgb(8, 211, 247);
+}
+.equalto{
+    background-color: rgb(170, 83, 49);
+    color: aliceblue;
+}
+.headng{
+    color: #fc7405;
+}
+.h1{
+    text-shadow:  5px 5px 5px rgba(5, 2, 2, 0.3);
+}
